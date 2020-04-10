@@ -1,2 +1,2 @@
-# APCS
-A collection of my APCS code.
+# Java
+A collection of my Java exercises and projects.
