@@ -1,0 +1,26 @@
+Variety: Chocolate Chip
+NumBoxes: 1
+
+Variety: Shortbread
+NumBoxes: 5
+
+Variety: Macaroon
+NumBoxes: 2
+
+Variety: Chocolate Chip
+NumBoxes: 3
+
+Total Orders: 11
+
+Removing Macaroon: 2
+
+Variety: Chocolate Chip
+NumBoxes: 1
+
+Variety: Shortbread
+NumBoxes: 5
+
+Variety: Chocolate Chip
+NumBoxes: 3
+
+Total Orders: 9

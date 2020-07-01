@@ -1,0 +1,16 @@
+Part A:
+Have a total variable
+Go through the list of CookieOrder
+    Get the number of each boxes and add it to total
+return total
+
+
+Part B:
+Create a counter variable the represent the total number of boxes removed.
+Go through the orders arraylist using a for loop
+    call getVariety() orders at position i (e.g. get(i))
+    if the result of the above is equals to the String cookieVar
+        Get the number of boxes by calling getNumBoxes() and add it to the counter variable
+        Remove it by calling remove(int) passing in the position (i)
+        subtract i by one (e.g i--) since we removed a item from an ArrayList.
+Return the counter variable
